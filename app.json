@@ -1,5 +1,5 @@
 {
-    "name": "Tovino Bot V3",
+    "name": "MN Bot V3",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,10 +15,10 @@
       "index",
       "inline",
       "Redirect Bot",
-      "Tovino Bot"
+      "MN Bot"
     ],
-    "website": "https://github.com/DKBOTx/TovinoBotV3",
-    "repository": "https://github.com/DKBOTx/TovinoBotV3",
+    "website": "https://github.com/MNBots/TovinoBotV3",
+    "repository": "https://github.com/MNBots/TovinoBotV3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -76,7 +76,7 @@
         },
         "START_IMAGE_URL":{
             "description": "Start image URL. Defaults to https://telegra.ph/TovinoBotV3-05-23",
-            "value": "https://telegra.ph/TovinoBotV3-05-23",
+            "value": "https://telegra.ph/file/cc96458747c6814db5c87.jpg",
             "required": false
         },
         "UNAUTHORIZED_CALLBACK_TEXT":{
